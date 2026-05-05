@@ -3,8 +3,6 @@
   <h1>✨ YouTube Magic Downloader ✨</h1>
   <p>
     <a href="https://actionfamily.lol/"><img src="https://img.shields.io/badge/Official%20Site-actionfamily.lol-%23ff6b6b?style=flat&logo=google-chrome" alt="Website" /></a>
-    <a href="https://github.com/amiraction/youtube-dl"><img src="https://img.shields.io/github/stars/amiraction/youtube-dl?style=social" alt="Stars" /></a>
-    <a href="https://github.com/amiraction/youtube-dl/actions"><img src="https://img.shields.io/github/actions/workflow/status/amiraction/youtube-dl/youtube-downloader.yml?branch=main&label=Workflow&logo=github" alt="Build" /></a>
   </p>
 </div>
 
